@@ -38,13 +38,15 @@ To install and run the code, follow these steps:
    ```
 
 2. Create a virtual environment (optional but recommended):
-   <pre> ```
+   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate
-     ``` </pre>
+   ```
 
 4. Install dependencies:
-   <pre> ```bash # pip install -r requirements.txt``` </pre>
+   ```bash
+   #pip install -r requirements.txt
+   ```
 
 
 ## Results
